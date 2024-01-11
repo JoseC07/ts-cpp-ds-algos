@@ -5,7 +5,7 @@ This repository contains my solutions to various coding interview practice probl
 
 ## Repository Structure
 - `LeetCode`: Contains solutions to problems from LeetCode.
-  - `/Typescript` or `C++`
+  - `/Typescript` or `/C++`
     - `/Easy`: Easy difficulty problems.
     - `/Medium`: Medium difficulty problems.
     - `/Hard`: Hard difficulty problems.
