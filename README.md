@@ -13,6 +13,17 @@ This repository contains my solutions to various coding interview practice probl
   - `/Platform1`: Problems from Platform1.
   - `/Platform2`: Problems from Platform2.
   - ... more as needed ...
+## DataStructures
+
+In the `DataStructures` directory, you'll find my personal implementations of various data structures along with helpful utility functions. These implementations are written to demonstrate the concepts and provide a deeper understanding of how these data structures work under the hood.
+
+Here's what you can expect in this directory:
+
+- **Full Implementations**: This includes classes and structures for common data structures like linked lists, trees, stacks, queues, and graphs. Each implementation is accompanied by thorough documentation explaining the methods and their usage.
+
+- **Helper Functions**: For each data structure, there are additional helper functions to make common operations like traversal, insertion, deletion, and searching more efficient and easier to handle.
+
+These implementations are particularly useful for those who are learning about data structures or preparing for coding interviews. They are written in a clear and concise manner, making it easy to understand the fundamental operations and algorithms associated with each data structure.
     
 ## Engage with the Project
 While this is a personal portfolio, your insights and discussions are welcome:
