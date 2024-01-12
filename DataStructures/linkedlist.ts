@@ -18,7 +18,40 @@ class LinkedList {
     }
 
     //Add an element to the end of the list 
-    push
+    push_back(val: number): void {
+        let newNode = new ListNode(val);
+        if(!this.head) {
+            this.head = newNode;
+            return;
+        }
+        let current = this.head;
+        while (current.next)
+        {
+            current = current.next;
+        }
+        current.next = newNode;
+    }
+
+    push_front(val: number): void {
+        let newNode = new ListNode(val);
+        newNode.next = this.head;
+        this.head = newNode;
+    }
+
+    pop_back(): void{
+        if(!this.head){
+            return;
+        }
+
+        if(!this.head.next)
+        {
+            this.head = null;
+            return;
+        }
+
+        let current = this.head;
+        while(current.next?.next)
+    }
 }
 
 
