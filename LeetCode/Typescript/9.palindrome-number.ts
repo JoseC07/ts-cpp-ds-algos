@@ -7,6 +7,7 @@
 // @lc code=start
 function isPalindrome(x: number): boolean {
     
+    
 };
 // @lc code=end
 

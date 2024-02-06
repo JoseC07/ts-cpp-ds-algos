@@ -9,6 +9,9 @@
 //console.log(twoSum([2,7,11,15],9));
 
 
+
+
+
 function twoSum(nums: number[], target: number): number[] {
     let indices: number[] = [0,0];
     for(let i = 0; i < nums.length;i++){

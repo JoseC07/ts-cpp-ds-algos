@@ -5,14 +5,11 @@ This repository contains my solutions to various coding interview practice probl
 
 ## Repository Structure
 - `LeetCode`: Contains solutions to problems from LeetCode.
-  - `/Typescript` or `/C++`
-    - `/Easy`: Easy difficulty problems.
-    - `/Medium`: Medium difficulty problems.
-    - `/Hard`: Hard difficulty problems.
-- `OtherPlatforms`: Solutions to problems from other coding practice websites.
-  - `/Platform1`: Problems from Platform1.
-  - `/Platform2`: Problems from Platform2.
-  - ... more as needed ...
+  - `/Typescript`
+  - `/C++`
+
+- `DataStructires`
+
 ## DataStructures
 
 In the `DataStructures` directory, you'll find my personal implementations of various data structures along with helpful utility functions. These implementations are written to demonstrate the concepts and provide a deeper understanding of how these data structures work under the hood.
@@ -23,7 +20,7 @@ Here's what you can expect in this directory:
 
 - **Helper Functions**: For each data structure, there are additional helper functions to make common operations like traversal, insertion, deletion, and searching more efficient and easier to handle.
 
-These implementations are particularly useful for those who are learning about data structures or preparing for coding interviews. They are written in a clear and concise manner, making it easy to understand the fundamental operations and algorithms associated with each data structure.
+- - **External Resources**: This will also contain resources I used to help me solve my LeetCode problems, such as NeetCode, Stack OverFlow, Youtube Videos, etc.
     
 ## Engage with the Project
 While this is a personal portfolio, your insights and discussions are welcome:
@@ -33,7 +30,9 @@ While this is a personal portfolio, your insights and discussions are welcome:
 - **Resource Sharing**: Know a great resource that complements a problem? Feel free to share!
 
 ## Note
-This project is for educational purposes and reflects my journey in coding practice. Contributions in the form of code are not required, but your engagement and feedback are much appreciated.
+This project is for educational purposes and reflects my journey in coding practice. Contributions are not required, but your engagement and feedback are much appreciated.
+
+` Disclaimer: This readme.md was created using chatgpt-4, my goal is to use AI as resource not for coding solutions. ` 
 
 
 ## License
