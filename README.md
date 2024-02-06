@@ -8,7 +8,7 @@ This repository contains my solutions to various coding interview practice probl
   - `/Typescript`
   - `/C++`
 
-- `DataStructires`
+- `DataStructures`
 
 ## DataStructures
 
