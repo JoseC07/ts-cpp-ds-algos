@@ -1,1 +1,27 @@
 .vscode/
+
+# Node modules
+node_modules/
+
+# TypeScript compiled output
+dist/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm/
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn
+.yarn-integrity

@@ -4,3 +4,6 @@ let z: number = 10;
 
 console.log(x/z);
 console.log("test")
+
+
+//generic testing
