@@ -9,7 +9,6 @@ This repository showcases my implementations of various data structures and algo
 ├── data-structures
 ├── dist
 ├── leetcode
-├── node_modules
 ├── package-lock.json
 ├── package.json
 ├── tsconfig.json
