@@ -3,17 +3,19 @@ Queue
 */
 
 class DoublyListNode<Type> {
-    prev: ListNode | null
+    prev: DoublyListNode<Type> | null
     val: Type | null
-    next: ListNode | null
-    constructor(val?: number, next?: ListNode | null) {
-        this.val = (val===undefined ? 0 : val)
+    next: DoublyListNode<Type> | null
+
+    constructor(prev?: DoublyListNode<Type> | null ,val?: Type | null, next?: DoublyListNode<Type> | null) {
+        this.prev = (val===undefined ? null : prev)
+        this.val = (val===undefined ? null : val)
         this.next = (next===undefined ? null : next)
     }
 }
 
 class Queue<Type> {
-    private left: DoublyListNode = new DoublyListNode<Type>(null);
+    private left: DoublyListNode<Type> = new DoublyListNode<Type>(null);
 
     constructor(){
         this.items = new Array<Type>;
