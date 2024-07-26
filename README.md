@@ -1,4 +1,4 @@
-# TypeScript Data Structures and Algorithms
+# TypeScript/CPP Data Structures and Algorithms
 
 This repository showcases my implementations of various data structures and algorithms in TypeScript.
 
